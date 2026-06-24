@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+torch
+konlpy
+wordcloud
+matplotlib
+Pillow
+numpy
